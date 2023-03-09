@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_game6.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_game6.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_game44.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_game44.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_choice.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_choice.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_giris.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_giris.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_game2.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_game2.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\raw_prologue.mp3.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\raw\\prologue.mp3"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\raw_congratulations.mp3.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\raw\\congratulations.mp3"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_game4.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_game4.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_changepassword.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_changepassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\raw_victory.mp3.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\raw\\victory.mp3"
+    },
+    {
+        "merged": "com.hdg.yazlab.app-merged_res-34:/raw_victory.mp3.flat",
+        "source": "com.hdg.yazlab.app-main-36:/raw/victory.mp3"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\raw_shocked.mp3.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\raw\\shocked.mp3"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_game22.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_game22.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\layout_activity_game66.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\layout\\activity_game66.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AKS\\.gradle\\daemon\\7.4\\com.hdg.yazlab.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]
