@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+
+        android:id="@+id/kayit_ol_editEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:hint="Mail Adresiniz"
+        android:inputType="textEmailAddress"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/kayit_ol_editSifre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:hint="Şifreniz"
+        android:inputType="textPassword"
+        android:textAlignment="center" />
+    <Button
+        android:layout_width="match_parent"
+        android:text="Kayıt Ol"
+        android:textSize="18sp"
+        android:onClick="Kayitol"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        android:background="#009688"/>
+    <Button
+        android:background="#4CAF50"
+        android:id="@+id/girissayfasi1"
+        android:layout_width="match_parent"
+        android:text="Giriş yapmak için tıklayınız."
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:background="#50BD6F"
+        android:id="@+id/sifreDegisimi"
+        android:layout_width="match_parent"
+        android:text="Şifre değiştirmek için tıklayınız."
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

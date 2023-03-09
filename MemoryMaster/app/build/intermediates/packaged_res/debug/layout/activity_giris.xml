@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".girisActivity">
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:hint="Mail Adresiniz"
+        android:textAlignment="center"
+        android:inputType="textEmailAddress"
+        android:id="@+id/giris_yap_editEmail"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:hint="Şifreniz"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"
+        android:inputType="textPassword"
+        android:id="@+id/giris_yap_editSifre"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/choiceEkran"
+        android:background="#4CAF50"
+        android:layout_width="match_parent"
+        android:text="Giriş"
+        android:onClick="girisYap"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".choiceActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="Oyuncu Sayısı:"/>
+
+    <CheckBox
+        android:id="@+id/tekOyuncu"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:text="Tek Oyuncu"
+        android:textSize="30sp" />
+
+    <CheckBox
+        android:id="@+id/ikiOyuncu"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:text="2 Oyuncu"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="Zorluk Seviyesi:"/>
+
+
+    <CheckBox
+        android:id="@+id/ikilikMatris"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:text="2x2"
+        android:textSize="30sp" />
+
+    <CheckBox
+        android:id="@+id/dortlukMatris"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:text="4x4"
+        android:textSize="30sp" />
+
+    <CheckBox
+        android:id="@+id/altilikMatris"
+        android:layout_width="match_parent"
+        android:layout_height="96dp"
+        android:text="6x6"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/oyunEkrani"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#673AB7"
+        android:text="BAŞLA!"
+        android:onClick="seciminiYap"
+
+        />
+
+
+
+</LinearLayout>
