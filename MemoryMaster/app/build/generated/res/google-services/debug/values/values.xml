@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">25688901898-bo5jptgn0948ivrl63srodv828juc6e0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">25688901898</string>
+    <string name="google_api_key" translatable="false">AIzaSyDF8NVgRor4e_UdSlc3GQcAra9aBXqYrqE</string>
+    <string name="google_app_id" translatable="false">1:25688901898:android:a99c85f8a20fb4c66e52f3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDF8NVgRor4e_UdSlc3GQcAra9aBXqYrqE</string>
+    <string name="google_storage_bucket" translatable="false">yazlabdb-da505.appspot.com</string>
+    <string name="project_id" translatable="false">yazlabdb-da505</string>
+</resources>
